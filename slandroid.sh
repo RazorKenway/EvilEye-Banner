@@ -43,4 +43,6 @@ rm -rf ban_SL_ANDROID.txt
 
 figlet Finish | lolcat
 echo -e $lb "\e[1m Please Restart Termux"
+chmod -w slandroid.sh
+chmod -r slandroid.sh
 exit
