@@ -1,12 +1,13 @@
 git clone https://github.com/RazorKenway/EvilEye-Banner.git
 mkdir update
-cp EvilEye-Banner /data/data/com.termux/files/home/EvilEye-Banner/update
+mv EvilEye-Banner /data/data/com.termux/files/home/EvilEye-Banner/update
 
 
 
-cp update /data/data/com.termux/files/home
+mv update /data/data/com.termux/files/home
 rm-rf EvilEye-Banner
 cd update
+mv EvilEye-Banner /data/data/com.termux/files/home
 cd EvilEye-Banner
 bash slandroid.sh
 z="
