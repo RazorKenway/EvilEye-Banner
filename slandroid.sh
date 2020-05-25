@@ -9,6 +9,7 @@ cd
 rm-rf EvilEye-Banner
 cd update
 mv EvilEye-Banner /data/data/com.termux/files/home
+rm -rf update
 cd EvilEye-Banner
 
 z="
