@@ -1,6 +1,6 @@
 git clone https://github.com/RazorKenway/EvilEye-Banner.git
 mkdir update
-echo "EvilEye-Banner"> update
+cp EvilEye-Banner /data/data/com.termux/files/home/EvilEye-Banner/update
 
 
 
