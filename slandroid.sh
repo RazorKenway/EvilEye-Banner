@@ -1,4 +1,7 @@
+pkg inatall figlet
+
 git clone https://github.com/RazorKenway/EvilEye-Banner.git
+
 mkdir update
 mv EvilEye-Banner /data/data/com.termux/files/home/EvilEye-Banner/update
 
