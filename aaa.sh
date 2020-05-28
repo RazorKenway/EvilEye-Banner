@@ -51,6 +51,7 @@ function req(){
     mv d2 /data/data/com.termux/files/home/EvilEye-Banner/Data_Files/
     mv d3 /data/data/com.termux/files/home/EvilEye-Banner/Data_Files/
     gem install lolcat
+    cd Data_Files
 }
 #---------------------------------------------------------------------------------------------
 
