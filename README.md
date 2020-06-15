@@ -7,7 +7,7 @@ pkg install curl
 
 pkg install ruby
 
-git clone https://github.com/RazorKenway/EvilEye-Banner
+git clone https://github.com/RazorKenway/EvilEye-Banner.git
 
 cd EvilEye-Banner 
 
